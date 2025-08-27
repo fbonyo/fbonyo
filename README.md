@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**fbonyo/fbonyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Fred Bonyo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate **Front-End Developer** learning and building responsive, user-friendly web applications. My journey is fueled by curiosity, creativity, and the drive to bring ideas to life through code.  
+
+---
+
+## 🔧 Skills Compared to Front-End Development  
+
+- 🏗️ **Structure & Content (HTML)** – Crafting clean and accessible web pages.  
+- 🎨 **Styling & Design (CSS / Tailwind CSS)** – Designing responsive and modern user interfaces.  
+- ⚡ **Interactivity & Logic (JavaScript / React)** – Adding functionality, interactivity, and reusable components.  
+- 🌍 **Version Control (Git & GitHub)** – Managing projects, collaborating, and tracking progress.  
+- 💡 **Problem-Solving & Continuous Learning** – Exploring new tools, frameworks, and best practices.  
+
+---
+
+## 🎯 Goals  
+
+My goal is to grow into a well-rounded **Front-End Developer** capable of building seamless digital experiences.  
+
+📌 This GitHub is where I share my learning journey, projects, and experiments as I level up my skills.  
+
+---
+
+## 📫 Let’s Connect  
+
+- 💼 [LinkedIn]([#](https://www.linkedin.com/in/fredrick-bonyo-5a8893196/))  
+- 🐦 [Twitter/X](@frobokenya)  
+
