@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fred Bonyo!
 
-I am a passionate **Front-End Developer** learning and building responsive, user-friendly web applications. My journey is fueled by curiosity, creativity, and the drive to bring ideas to life through code.  
+I am a passionate **junior Front-End Developer** learning and building responsive, user-friendly web applications. My journey is fueled by curiosity, creativity, and the drive to bring ideas to life through code.  
 
 ---
 
